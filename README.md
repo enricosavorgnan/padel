@@ -23,7 +23,6 @@ Realizzato con:
 | `dal.py` | Data Access Layer: operazioni CRUD su MySQL |
 | `logic.py` | Business logic: pulizia CSV, calcolo punteggi matching |
 | `db.py` | Configurazione del database MySQL |
-|
 | `requirements.txt` | Dipendenze del progetto |
 
 ---
